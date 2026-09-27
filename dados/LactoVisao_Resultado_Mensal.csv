@@ -1,0 +1,35 @@
+"LactoVisão — Resultado Mensal (2 anos): Litros, Preço e Valor Pago",,,,,
+"Propriedade parceira - Ariranhazinha, Seara/SC | Granularidade: mensal | Período: Set/2024 a Ago/2026 (24 meses) | Dados sintéticos com sazonalidade",,,,,
+,,,,,
+Mês/Ano,Nº Vacas Lactação,Litros no Mês (L),Preço Unitário (R$/L),Valor Total Pago (R$),Var. Litros vs Mês Anterior (%)
+Set/2024,23,"11.178,3","R$ 2,441","R$ 27.286,23",-
+Out/2024,22,"11.197,4","R$ 2,332","R$ 26.112,34","0,2%"
+Nov/2024,22,"12.197,9","R$ 2,276","R$ 27.762,42","8,9%"
+Dez/2024,22,"12.281,5","R$ 2,252","R$ 27.657,94","0,7%"
+Jan/2025,21,"11.379,3","R$ 2,334","R$ 26.559,29","-7,3%"
+Fev/2025,20,"9.964,3","R$ 2,333","R$ 23.246,71","-12,4%"
+Mar/2025,20,"10.117,6","R$ 2,441","R$ 24.697,06","1,5%"
+Abr/2025,19,"8.579,8","R$ 2,534","R$ 21.741,21","-15,2%"
+Mai/2025,19,"7.912,8","R$ 2,670","R$ 21.127,18","-7,8%"
+Jun/2025,19,"7.509,3","R$ 2,778","R$ 20.860,84","-5,1%"
+Jul/2025,19,"7.493,3","R$ 2,865","R$ 21.468,30","-0,2%"
+Ago/2025,19,"7.756,0","R$ 2,780","R$ 21.561,68","3,5%"
+Set/2025,19,"8.823,8","R$ 2,592","R$ 22.871,29","13,8%"
+Out/2025,18,"9.534,8","R$ 2,484","R$ 23.684,44","8,1%"
+Nov/2025,18,"10.057,5","R$ 2,383","R$ 23.967,02","5,5%"
+Dez/2025,18,"10.405,9","R$ 2,399","R$ 24.963,75","3,5%"
+Jan/2026,18,"9.800,7","R$ 2,507","R$ 24.570,35","-5,8%"
+Fev/2026,19,"9.431,4","R$ 2,502","R$ 23.597,36","-3,8%"
+Mar/2026,19,"9.531,5","R$ 2,645","R$ 25.210,82","1,1%"
+Abr/2026,20,"8.939,3","R$ 2,766","R$ 24.726,10","-6,2%"
+Mai/2026,19,"7.959,8","R$ 2,870","R$ 22.844,63","-11,0%"
+Jun/2026,19,"7.347,8","R$ 2,980","R$ 21.896,44","-7,7%"
+Jul/2026,18,"7.475,8","R$ 2,995","R$ 22.390,02","1,7%"
+Ago/2026,18,"7.633,1","R$ 2,937","R$ 22.418,41","2,1%"
+TOTAL / MÉDIA,"19,5","224.508,9","R$ 2,587","R$ 573.221,85",
+,,,,,
+Amplitude Litros/Mês (máx - mín),,"4.933,7",,,
+Amplitude % (em relação ao menor mês),,"67,1%",,,
+Amplitude Preço/L (máx - mín),,"R$ 0,743",,,
+,,,,,
+"Nota: dados sintéticos gerados para prototipagem (litros/mês e preço/L calibrados com sazonalidade típica da pecuária leiteira no Sul do Brasil: maior produção e menor preço na safra cheia — primavera/verão —, menor produção e maior preço na entressafra — outono/inverno). Serão substituídos pelos dados reais da propriedade parceira e por séries públicas (Cepea/Esalq, Epagri/Cepa, Conseleite/SC) conforme Dicionário de Dados.",,,,,
